@@ -4,7 +4,9 @@ export default function Antonyms(props) {
   if (props.antonyms) {
     return (
       <div className="Antonyms">
-        <strong>Antonyms:</strong>
+        <p>
+          <strong>Antonyms:</strong>
+        </p>
         {props.antonyms.map(function (antonym, index) {
           return (
             <ul key={index}>

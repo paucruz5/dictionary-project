@@ -1,0 +1,13 @@
+body,
+#root {
+    font-family: "Cause", cursive;
+}
+
+body {
+    margin: 0;
+    background-image: url("../img/dictionary.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}

@@ -1,9 +1,12 @@
-.App-header {
-    margin: 30px 0;
+.App header {
+    font-size: 15px;
+    color: white;
     text-align: center;
+    font-weight: bold;
+    margin-top: 5px;
 }
 
-.App-footer {
-    margin: 30px 0;
-    text-align: center;
+.App a {
+    color: #57f82f;
+    text-decoration: none;
 }
