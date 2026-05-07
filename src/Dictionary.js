@@ -21,6 +21,7 @@ export default function Dictionary() {
 
     let apiUrl = `https://api.shecodes.io/dictionary/v1/define?word=${keyword}&key=8ct2716ea6f8a04o8535eed14cbdd63a`;
     axios.get(apiUrl).then(handleResponse);
+    setKeyword("");
   }
 
   function handleKeywordChange(event) {
@@ -37,6 +38,7 @@ export default function Dictionary() {
             autoFocus={true}
             autoComplete="on"
             defaultValue="love"
+            value={keyword}
             onChange={handleKeywordChange}
           />
         </form>
