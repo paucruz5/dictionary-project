@@ -22,7 +22,7 @@
 .Dictionary input {
     width: 100%;
     border-radius: 8px;
-    background-color: #bcf8b5;
+    background-color: #fad3be;
     font-size: 30px;
     text-align: center;
 }
@@ -36,4 +36,8 @@ ul {
     list-style-type: none;
     padding-left: 0;
     line-height: 0.5;
+}
+
+.example {
+    color: #644c78;
 }

@@ -37,7 +37,7 @@ export default function App() {
           </header>
         </section>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="love" />
         </main>
       </div>
     </div>
