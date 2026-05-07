@@ -4,7 +4,7 @@ import "./Dictionary.css";
 import Results from "./Results";
 
 export default function Dictionary() {
-  let [keyword, setKeyword] = useState("love");
+  let [keyword, setKeyword] = useState("");
   let [results, setResults] = useState(null);
 
   useEffect(() => {
@@ -37,7 +37,6 @@ export default function Dictionary() {
             placeholder="Type a word..."
             autoFocus={true}
             autoComplete="on"
-            defaultValue="love"
             value={keyword}
             onChange={handleKeywordChange}
           />
