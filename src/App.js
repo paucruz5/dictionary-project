@@ -20,7 +20,7 @@ export default function App() {
             </a>{" "}
             and it's open-sourced on{" "}
             <a
-              href="https://github.com/paucruz5/Weather-app"
+              href="https://github.com/paucruz5/dictionary-project"
               target="_blank"
               rel="noopener noreferrer"
             >
