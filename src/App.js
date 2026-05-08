@@ -11,7 +11,7 @@ export default function App() {
           <header>
             This project was coded by
             <a
-              href="https://paucruz-portfolio.netlify.app/"
+              href="https://paucruz.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
