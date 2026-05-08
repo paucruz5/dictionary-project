@@ -28,7 +28,7 @@ export default function App() {
             </a>{" "}
             and hosted on{" "}
             <a
-              href="https://the-meaning-archive.netlify.app/"
+              href="https://themeaningarchive.paucruz.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
