@@ -9,7 +9,7 @@ export default function App() {
       <div className="container">
         <section>
           <header>
-            This project was coded by
+            Coded by
             <a
               href="https://paucruz.com/"
               target="_blank"
@@ -18,7 +18,7 @@ export default function App() {
               {" "}
               Paulina Cruz
             </a>{" "}
-            and it's open-sourced on{" "}
+            ; open-sourced on{" "}
             <a
               href="https://github.com/paucruz5/dictionary-project"
               target="_blank"
@@ -26,7 +26,7 @@ export default function App() {
             >
               Github
             </a>{" "}
-            and hosted on Netlify
+            ; hosted on Netlify
           </header>
         </section>
         <main>
