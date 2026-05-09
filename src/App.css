@@ -10,3 +10,9 @@
     color: #57f82f;
     text-decoration: none;
 }
+
+@media (max-width: 577px) {
+    .App header {
+        font-size: 14px;
+    }
+}

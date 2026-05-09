@@ -11,3 +11,9 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
+@media (max-width: 577px) {
+    body {
+        background-image: url("../img/dictionary-mobile.png");
+    }
+}
