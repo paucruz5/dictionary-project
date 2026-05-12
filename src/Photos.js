@@ -26,15 +26,17 @@ export default function Photos(props) {
             })}
           </div>
         </section>
-        The photos are taken from{" "}
-        <a
-          href="https://www.pexels.com"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          Pexels
-        </a>{" "}
-        , a free stock photo website. Thank you, Pexels.
+        <footer className="pixel-credit">
+          The photos are taken from{" "}
+          <a
+            href="https://www.pexels.com"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
+            Pexels
+          </a>{" "}
+          , a free stock photo website. Thank you, Pexels.
+        </footer>
       </div>
     );
   } else {
