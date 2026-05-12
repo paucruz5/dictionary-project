@@ -20,7 +20,7 @@ export default function App() {
             </a>{" "}
             ; open-sourced on{" "}
             <a
-              href="https://github.com/paucruz5/dictionary-project"
+              href="https://github.com/paucruz5/purple-dictionary"
               target="_blank"
               rel="noopener noreferrer"
             >
